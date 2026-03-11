@@ -1,5 +1,5 @@
 # ── Forecast Selector ──
-st.sidebar.header("⚙️ Forecast Settings")
+st.sidebar.header("Forecast Settings")
 forecast_years = st.sidebar.slider(
     "Select Forecast Years",
     min_value=1,
